@@ -1,7 +1,7 @@
 # Marko Pascan
 ## Hi there 👋
 
-[![Linkedin: chapitos](https://img.shields.io/badge/-Marko Pascan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pascan)](https://www.linkedin.com/in/pascan/)
+[![Linkedin: chapitos](https://img.shields.io/badge/-Marko%20Pascan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pascan)](https://www.linkedin.com/in/pascan/)
 
 <!--
 **chapitos/chapitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
