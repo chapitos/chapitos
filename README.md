@@ -1,6 +1,8 @@
 # Marko Pascan
 ## Hi there 👋
 
+[![Linkedin: chapitos](https://img.shields.io/badge/-Byungjin%20Park-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pascan)](https://www.linkedin.com/in/pascan/)
+
 <!--
 **chapitos/chapitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
